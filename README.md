@@ -7,7 +7,7 @@ Because of this, there is no need for manual deployment.
 
 This setup demonstrates important DevOps concepts like automation, version control, and continuous delivery — helping teams deploy faster and more reliably.
 
-![](./images/image-1.webp)
+![](./Images/Node_Img.png)
 ### Tools & Technologies
 * __Jenkins__ – For continuous integration and delivery automation
 * __Node.js & npm__ – For building and running the application
